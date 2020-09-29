@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "f0f12a14f389fae12710";
+/******/ 	var hotCurrentHash = "5e657102a54bbea20222";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -933,8 +933,8 @@ setImmediate(function () {
     return;
   }
 
-  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "/home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
-  reactHotLoader.register(addLoginListener, "addLoginListener", "/home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "/home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+  reactHotLoader.register(addLoginListener, "addLoginListener", "/home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
 })();
 
 ;
@@ -1005,8 +1005,8 @@ _netlifyCmsApp.default.registerPreviewStyle("cms.css");
     return;
   }
 
-  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "/home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms.js");
-  reactHotLoader.register(_emitter, "_emitter", "/home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms.js");
+  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "/home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms.js");
+  reactHotLoader.register(_emitter, "_emitter", "/home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms.js");
 })();
 
 ;
@@ -1718,7 +1718,7 @@ __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _this = undefined,
-    _jsxFileName = "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/page-preview.js";
+    _jsxFileName = "/home/raisler/Documents/Blog/src/cms/preview-templates/page-preview.js";
 
 (function () {
   var enterModule = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoaderGlobal.enterModule : undefined;
@@ -1774,8 +1774,8 @@ var _default = PagePreview;
     return;
   }
 
-  reactHotLoader.register(PagePreview, "PagePreview", "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/page-preview.js");
-  reactHotLoader.register(_default, "default", "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/page-preview.js");
+  reactHotLoader.register(PagePreview, "PagePreview", "/home/raisler/Documents/Blog/src/cms/preview-templates/page-preview.js");
+  reactHotLoader.register(_default, "default", "/home/raisler/Documents/Blog/src/cms/preview-templates/page-preview.js");
 })();
 
 ;
@@ -1800,7 +1800,7 @@ __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 var _this = undefined,
-    _jsxFileName = "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/post-preview.js";
+    _jsxFileName = "/home/raisler/Documents/Blog/src/cms/preview-templates/post-preview.js";
 
 (function () {
   var enterModule = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoaderGlobal.enterModule : undefined;
@@ -1856,8 +1856,8 @@ var _default = PostPreview;
     return;
   }
 
-  reactHotLoader.register(PostPreview, "PostPreview", "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/post-preview.js");
-  reactHotLoader.register(_default, "default", "/home/raisler/Documents/Blog/my-gatsby-project/src/cms/preview-templates/post-preview.js");
+  reactHotLoader.register(PostPreview, "PostPreview", "/home/raisler/Documents/Blog/src/cms/preview-templates/post-preview.js");
+  reactHotLoader.register(_default, "default", "/home/raisler/Documents/Blog/src/cms/preview-templates/post-preview.js");
 })();
 
 ;
@@ -1877,9 +1877,9 @@ var _default = PostPreview;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
-__webpack_require__(/*! /home/raisler/Documents/Blog/my-gatsby-project/node_modules/gatsby-plugin-netlify-cms/cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
-module.exports = __webpack_require__(/*! /home/raisler/Documents/Blog/my-gatsby-project/src/cms/index.js */"./src/cms/index.js");
+__webpack_require__(/*! /home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
+__webpack_require__(/*! /home/raisler/Documents/Blog/node_modules/gatsby-plugin-netlify-cms/cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+module.exports = __webpack_require__(/*! /home/raisler/Documents/Blog/src/cms/index.js */"./src/cms/index.js");
 
 
 /***/ }),

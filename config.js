@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://raislervoigt.netlify.app/',
   pathPrefix: '/',
   title: 'Blog by Raisler Voigt',
   subtitle: 'Um sanduíche de assuntos',
@@ -20,13 +20,13 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contato',
+      label: 'Projetos',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Raisler Voigt',
-    photo: '/luffy.jpg',
+    photo: '/raisler2.jpg',
     bio: 'Um sanduíche de assuntos',
     contacts: {
       email: 'raisler.dev@gmail.com',

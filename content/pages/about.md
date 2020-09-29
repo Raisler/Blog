@@ -4,8 +4,40 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Um saunduíche de assuntos
+Um sanduíche de assuntos
 
 ![.](/media/image-2.jpg)
 
-Um sanduíche de assuntos
+Who am I? Meu nome é Raisler Voigt, sou brasileiro, cristão, estudante de Big Data (sim, tem uma faculdade disso, link no final), gosto de história, filosofia, matemática (essa aí eu tenho que gostar), psicologia, 90% das músicas que ouço (ser eclético é benção), e mais um monte de coisa, as vezes falta tempo pra curtir tanta coisa.
+
+# Ciência de dados e minha motivação.
+
+Entrei na faculdade, e me apaixonei pela ciência de dados, o futuro são os dados, tudo será Data Driven (direcionado por dados), inicialmente tive receio e medo com a matemática mais complexa, mas a ciência de dados não é só isso, ela requer criatividade, uma boa percepção do mundo, senso critíco e analítico, mente aberta, ser um bom observador e junto a isso, colocamos o conhecimento em computação, estatística e cálculo, e nunca subestime a intuição humana. Data Everywhere! Trabalhar com dados é muito bom, pois eles podem ser de qualquer lugar ou tempo, você não sabe até extrair uma informação, quando fiz 18 anos eu tava mais perdido que cego em tiroteio (piada velha), gostar de tanta coisa me fez ficar em dúvida de qual profissão escolher (sacanagem fazer jovens escolherem o que eles vão fazer o restante da sua vida), sobre o futuro temos alguns fatos, um deles é que provavelmente você mudará de profissão/empresa várias vezes em curtos períodos de tempo em relação aos boomers, o outro é que da mesma forma que inglês é requisito na maioria das vagas de emprego, programação já é um diferencial nesta e nas próximas décadas, mas não somente programação, ela vem acompanhada de saber o básico de estatística, e para alguém como eu que gosta de várias áreas de conhecimento, ciência de dados entrou como uma luva, analisar desde o mercado de ações até problemas sociais.
+
+##  Infância & Ensino médio
+
+--> Igreja, Minecraft, Pokémon, marcenaria, praia, biblía, peixe, morro, bicicleta, vôlei, Batman, Ansiedade.
+Se faltar "coisa" vou adicionando.
+
+
+# Cristianismo, por quê?
+
+Antes de você se tornar cristão, primeiro vem a crença em um criador, eu tentei ser ateu, e conteúdo na internet para ajudar não falta, mas até que se prove ao contrário, eu complexo do jeito que sou, não vim do nada, para entender melhor, conheça o argumento do relojoeiro(link no final).
+
+"Pois desde a criação do mundo os atributos invisíveis de Deus, seu eterno poder e sua natureza divina, têm sido observados claramente, podendo ser compreendidos por intermédio de tudo o que foi criado." Romanos 1:20
+
+Ta, mas quem criou Deus?
+
+Tem vários argumentos, mas eu prefiro dizer: Ele é incriado, e como isso é possível? sei lá, vamo de fé, inclusive me parece menos absurdo do que encontrar um relógio e falar que ele venho do nada, e lembre-se, somos extremamente mais complexos do que um relógio, estudos recentes principalmente em células apontam isso.
+Ok, parando de encher o saco de ateu no qual tanto ele como qualquer outro eu tenho total respeito, até porque eu já tentei ser um, alguns conseguem, outros não, a pergunta é, por quê o Deus cristão? isso aqui não é um artigo, então vou falar que Jesus é incrivelmente incrível e essa é minha resposta.
+
+"Para Deus, o Pai, a religião pura e verdadeira é esta: ajudar os órfãos e as viúvas nas suas aflições e não se manchar com as coisas más deste mundo." Tiago 1:27
+
+## Links 
+[Curso Big Data no Agronegócio](encurtador.com.br/apyFK)
+
+[Argumento do Relógio](http://www.lmm.com.br/ibb/html/Estudos_0002_O%20Classico%20Argumento%20do%20Relogio.htm)
+
+Idéias de projetos de Data Science, por favor mande no email, vai que eu acho legal: raisler.dev@gmail.com
+
+
