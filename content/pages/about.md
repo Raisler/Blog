@@ -16,27 +16,21 @@ Entrei na faculdade, e me apaixonei pela ciência de dados, o futuro são os dad
 
 ##  Infância & Ensino médio
 
---> Igreja, Minecraft, Pokémon, marcenaria, praia, biblía, peixe, morro, bicicleta, vôlei, Batman, Ansiedade.
+--> Igreja, Minecraft, Pokémon, marcenaria, praia, biblía, peixe, morro, bicicleta, vôlei,ping pong, futebol, Batman, Ansiedade, League of Legends.
+
 Se faltar "coisa" vou adicionando.
 
 
-# Cristianismo, por quê?
-
-Antes de você se tornar cristão, primeiro vem a crença em um criador, eu tentei ser ateu, e conteúdo na internet para ajudar não falta, mas até que se prove ao contrário, eu complexo do jeito que sou, não vim do nada, para entender melhor, conheça o argumento do relojoeiro(link no final).
+# No que creio?
 
 "Pois desde a criação do mundo os atributos invisíveis de Deus, seu eterno poder e sua natureza divina, têm sido observados claramente, podendo ser compreendidos por intermédio de tudo o que foi criado." Romanos 1:20
-
-Ta, mas quem criou Deus?
-
-Tem vários argumentos, mas eu prefiro dizer: Ele é incriado, e como isso é possível? sei lá, vamo de fé, inclusive me parece menos absurdo do que encontrar um relógio e falar que ele venho do nada, e lembre-se, somos extremamente mais complexos do que um relógio, estudos recentes principalmente em células apontam isso.
-Ok, parando de encher o saco de ateu no qual tanto ele como qualquer outro eu tenho total respeito, até porque eu já tentei ser um, alguns conseguem, outros não, a pergunta é, por quê o Deus cristão? isso aqui não é um artigo, então vou falar que Jesus é incrivelmente incrível e essa é minha resposta.
 
 "Para Deus, o Pai, a religião pura e verdadeira é esta: ajudar os órfãos e as viúvas nas suas aflições e não se manchar com as coisas más deste mundo." Tiago 1:27
 
 ## Links 
+
 [Curso Big Data no Agronegócio](encurtador.com.br/apyFK)
 
-[Argumento do Relógio](http://www.lmm.com.br/ibb/html/Estudos_0002_O%20Classico%20Argumento%20do%20Relogio.htm)
 
 Idéias de projetos de Data Science, por favor mande no email, vai que eu acho legal: raisler.dev@gmail.com
 
